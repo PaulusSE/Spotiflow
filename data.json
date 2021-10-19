@@ -1,0 +1,182 @@
+data = [
+    {
+        "data": "Lofi Gaming Sessions // Beats to game to 🎮",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb9c8fe23809a5e5b3103cf909",
+        "id": "7szHshqQQXFTIPDqS4KXLV"
+    },
+    {
+        "data": "2",
+        "img": "https://mosaic.scdn.co/640/ab67616d0000b273592548c935a49e45e59cb375ab67616d0000b2735a0cf3ad3a732dedb9d449b4ab67616d0000b273770d36e4d25f5ff57a215958ab67616d0000b2737c083268f608dafc5c19448a",
+        "id": "6nXFyLZaR8MRc9jffSUCHO"
+    },
+    {
+        "data": "average 1.",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb08b160f488d12d53b1c5ce2e",
+        "id": "2TKLL364j9DqiyKg3VGukJ"
+    },
+    {
+        "data": "gambare gambare senpai",
+        "img": "https://i.scdn.co/image/ab67706c0000bebbd37180947f75dbf1e254baeb",
+        "id": "1OD5NsDjS3o8RXqEozmG8h"
+    },
+    {
+        "data": "Medieval / Fantasy Tavern Playlist",
+        "img": "https://i.scdn.co/image/ab67706c0000bebbb13a4dfbc7d68c8b2fd411c8",
+        "id": "7BWEyPUDTUQSkk2sQzlXpg"
+    },
+    {
+        "data": "Stay with me/Plastic Love/Japanese CityPop✨",
+        "img": "https://i.scdn.co/image/ab67706c0000bebbb7cd41367f911fa8a4a3be68",
+        "id": "70feEwUBVhjA8Z2ru9sZ0v"
+    },
+    {
+        "data": "best anime openings but it's lofi hip hop remix",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb2c34f54ab697285fb01de444",
+        "id": "1gfVXcrtvHfEgVgeK4ZuxR"
+    },
+    {
+        "data": "best anime openings but it's lofi hip hop remix part 2",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb8321cc93c4ed3b587fa36590",
+        "id": "21h4MEnULBQSinTtKe070i"
+    },
+    {
+        "data": "This Is Bi-2",
+        "img": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO2gvLx1-large.jpg",
+        "id": "37i9dQZF1DZ06evO2gvLx1"
+    },
+    {
+        "data": "Mafia 1 - soundtracks",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb7e75a991d033fcb0cb473a3e",
+        "id": "3UaWX753GmMMHzwpWWzuzx"
+    },
+    {
+        "data": "MXRGX Radio",
+        "img": "https://seeded-session-images.scdn.co/v1/img/artist/6gbsXeoeYTUXGlYlxcKAMP/en",
+        "id": "37i9dQZF1E4lKRZVDTxo9K"
+    },
+    {
+        "data": "Lofi Japan 🇯🇵 Japanese beats to study to by Oslofi",
+        "img": "https://i.scdn.co/image/ab67706c0000bebbb2d7470b846e467a9dc9a83d",
+        "id": "4gHPH0i2mD00zgEmWxONn4"
+    },
+    {
+        "data": "phonk",
+        "img": "https://i.scdn.co/image/ab67706f000000036261af078554a4a0b051f7c1",
+        "id": "37i9dQZF1DWWY64wDtewQt"
+    },
+    {
+        "data": "lofi sleep music, lofi rain beats 💤",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb7866dd1f63b8ab0d7036236c",
+        "id": "14m9iOV34bCzabXZNCulsd"
+    },
+    {
+        "data": "Lofi Beats [chill beats to study/relax] Inner Ocean Records",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb438f1ca99ca5da8da5cdb68d",
+        "id": "66YQDZDPxIAotL6fOID7BJ"
+    },
+    {
+        "data": "Non Non Biyori OSTs",
+        "img": "https://i.scdn.co/image/ab67616d0000b273d94976ab791ee34e62e0fafe",
+        "id": "6VNY51MGmHVRbQxCrscvcf"
+    },
+    {
+        "data": "Skyrim Relaxing Ambience",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb5cfbd007d731f3677e54668e",
+        "id": "2AwSRpUIfo7dNXtMjMCK1c"
+    },
+    {
+        "data": "SAO OST",
+        "img": "https://i.scdn.co/image/ab67616d0000b273a4940a3651848e77db540206",
+        "id": "2XN5d41xinpFfP73owAmd0"
+    },
+    {
+        "data": "Japanese Garden",
+        "img": "https://i.scdn.co/image/ab67706f00000003686617219b1db80201feaf58",
+        "id": "37i9dQZF1DX0x3hhpH7R9I"
+    },
+    {
+        "data": "Retrowave",
+        "img": "https://i.scdn.co/image/ab67706f00000003f7520577eb081f98b5488492",
+        "id": "37i9dQZF1DWWmsWPbM2pKT"
+    },
+    {
+        "data": "",
+        "img": "https://mosaic.scdn.co/640/ab67616d0000b273c2ca13cabb38b86a2a8e200bab67616d0000b273d7859b708f662c3018f213b8ab67616d0000b273d7ac0e1962e4b34bc481d1c7ab67616d0000b273ea73d4f02f505a31bc8a18c1",
+        "id": "1W478ihuPQItDG1S9bDB8i"
+    },
+    {
+        "data": "Night drive",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb5b3d82f1c1c0ef55e4e8fed8",
+        "id": "1xWxNeGctaegposTwPMi8N"
+    },
+    {
+        "data": "",
+        "img": "https://mosaic.scdn.co/640/ab67616d0000b2731ecbc21e4668f97d76fce819ab67616d0000b2733e4cd354f35a93fc9d72a235ab67616d0000b2739eeb5e3937f224bc72e36107ab67616d0000b273b56956353a0362d2ca9e1376",
+        "id": "2RNj7vBYaR3CD0oX1lz0a7"
+    },
+    {
+        "data": "Yuru Camp - Yurukyan△ - ゆるキャン△ - (Laid-Back Camp) +  Heya Camp (へやキャン△) OST",
+        "img": "https://i.scdn.co/image/ab67616d0000b273aedb61d70f0460783cc55f88",
+        "id": "21fPR9GMo28VwGlykN80zs"
+    },
+    {
+        "data": "Yuru Camp△ | OST, openings & endings",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb3b5cb2efe92d9504737442d2",
+        "id": "6jgHRVAYgDoIa4GjJD08qY"
+    },
+    {
+        "data": "#nightdrive",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb2a0b9841574d53888c23273e",
+        "id": "5X5Xfg3urU3DXEmbKPLBwL"
+    },
+    {
+        "data": "Anime Rewind '10s",
+        "img": "https://i.scdn.co/image/ab67706f00000003702282ed72dc2afa2f5e82de",
+        "id": "37i9dQZF1DWYzHfIcEruXw"
+    },
+    {
+        "data": "HAIKYU!! -ハイキュー!!-",
+        "img": "https://i.scdn.co/image/ab67706f000000030a7fa706d2720517c39a57af",
+        "id": "37i9dQZF1DX1WdT3Hi8zX0"
+    },
+    {
+        "data": "Attack on Titan -進撃の巨人-",
+        "img": "https://i.scdn.co/image/ab67706f0000000318d7ecb6d556b5ae06b8715d",
+        "id": "37i9dQZF1DWXkVfVmXHa7l"
+    },
+    {
+        "data": "Anime Now presents... Best Anime Songs of 2020",
+        "img": "https://i.scdn.co/image/ab67706f00000003774f3ea4249f5f83ef1a8307",
+        "id": "37i9dQZF1DXdBREWaHui4o"
+    },
+    {
+        "data": "Lofi Lia Discography",
+        "img": "https://i.scdn.co/image/ab67706c0000bebb802e03667633c68c48480d40",
+        "id": "2O1tv3izzVBThVIuTU8JE6"
+    },
+    {
+        "data": "Sleep Lofi - Chillhop & Lo-fi Hip Hop",
+        "img": "https://i.scdn.co/image/ab67706c0000bebbe30dc2f29191d215a1b156e3",
+        "id": "4Zi3PGzcLga2wMFn2d5jte"
+    },
+    {
+        "data": "Your Top Songs 2020",
+        "img": "https://lineup-images.scdn.co/wrapped-2020-top100_LARGE-en.jpg",
+        "id": "37i9dQZF1EM9EutbZB6jc5"
+    },
+    {
+        "data": "VK",
+        "img": "https://mosaic.scdn.co/640/ab67616d0000b2733a1988b07c3720adfedba206ab67616d0000b273581ddd8ffa1462ca191c9fb9ab67616d0000b27368384dd85fd5e95831252f60ab67616d0000b273899fac4febbc464371e54c27",
+        "id": "6LdROZNL1DOxhou4qRua8D"
+    },
+    {
+        "data": "Anime/Japanese songs/ops! Metal-pop",
+        "img": "https://i.scdn.co/image/ab67706c0000bebbfae05dd0ad2c968e9a8daf9b",
+        "id": "0dOF7w4i4llLHn5J5Mfc1W"
+    },
+    {
+        "data": "Road Trip To Tokyo",
+        "img": "https://i.scdn.co/image/ab67706f000000038c745ec116a64065c44d7906",
+        "id": "37i9dQZF1DWV8IND7NkP2W"
+    }
+]
